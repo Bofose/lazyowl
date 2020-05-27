@@ -24,9 +24,17 @@
               "src/assets"
             ],
             "styles": [
+                       
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/libs/jquery/jquery.js",
+              "src/assets/libs/bootstrap/js/bootstrap.min.js",
+              "src/assets/libs/rslides/responsiveslides.min.js",
+              "src/assets/libs/jquery-ui/jquery-ui.min.js",
+              "src/assets/libs/slick/slick.min.js",
+              "src/assets/js/main.js"           
+            ]
           },
           "configurations": {
             "production": {
